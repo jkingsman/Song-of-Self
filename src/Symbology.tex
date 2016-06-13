@@ -1,0 +1,23 @@
+\documentclass[preview,varwidth=true]{standalone}
+\usepackage{graphicx}
+\usepackage{amssymb}
+
+\newcommand\qimplies{
+  \mathrel{\ooalign{\hss$\Rightarrow$\hss\cr
+  \kern0.1ex\lower0.2ex\hbox{\scalebox{1}{$?$}}}}}
+
+\begin{document}
+
+\begin{center}
+\def\arraystretch{1.5}%
+\begin{tabular}{ |c|c| } 
+ \hline
+ $ x \qimplies \perp $  & Do I contradict myself? \\ 
+ $ x \Rightarrow \perp $ & Very well then I contradict myself \\ 
+ $  | x | = \aleph_0 $ & (I am large, I contain multitudes.) \\ 
+ $  \blacksquare $ & \textit{Q.E.D} \\ 
+ \hline
+\end{tabular}
+\end{center}
+
+\end{document}
