@@ -4,11 +4,11 @@
 
 #### From *Song of Myself*, Walt Whitman (Section 51)
 
-*Do I contradict myself?
+*Do I contradict myself?*
 
-Very well then I contradict myself,
+*Very well then I contradict myself,*
 
-(I am large, I contain multitudes.)*
+*(I am large, I contain multitudes.)*
 
 
 
